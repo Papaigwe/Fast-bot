@@ -1,7 +1,7 @@
 {
-  "name": "queen_anya_ver.2",
+  "name": "Fast-bot",
   "version": "2.1.2.1",
-  "description": "Anya_v2-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
+  "description": "fast_bot-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -19,13 +19,13 @@
     "bot-md",
     "multi-device"
   ],
-  "homepage": "https://github.com/PikaBotz/Anya_v2-MD#readme",
+  "homepage": "https://github.com/papaigwe/Fast-bot#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PikaBotz/Anya_v2-MD"
+    "url": "git+https://github.com/papaigwe/Fast-bot"
   },
   "bugs": {
-    "url": "https://github.com/PikaBotz/Anya_v2-MD/issues"
+    "url": "https://github.com/papaigwe/Fast-bot/issues"
   },
   "author": "Pika",
   "license": "GPL-3.0",
