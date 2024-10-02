@@ -9,17 +9,17 @@
 
 
 /*
-        📝 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗡𝗮𝗺𝗲: Queen Anya Ver.2
-        🐙 𝗚𝗶𝘁𝗵𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆: [PikaBotz/Anya_v2-MD](https://github.com/PikaBotz/Anya_v2-MD)
-        👤 𝗢𝘄𝗻𝗲𝗿/𝗖𝗿𝗲𝗮𝘁𝗼𝗿: @PikaBotz
+        📝 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗡ame: FAST-BOT
+        🐙 𝗚𝗶𝘁𝗵𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆: [papaigwe/fast-MD](https://github.com/papaigwe/Fast-bot)
+        👤 𝗢𝘄𝗻𝗲𝗿/𝗖𝗿𝗲𝗮𝘁𝗼𝗿: @papaigwe
         📌 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻:
-        Queen Anya v2 is a versatile WhatsApp bot equipped with a variety of plugins for tasks, games, and utilities. 
+        💨 Fast-bot is a versatile WhatsApp bot equipped with a variety of plugins for tasks, games, and utilities. 
         It aims to enhance your messaging experience by combining efficiency and entertainment in a user-friendly package.
         
-        📅 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻: 22/12/2022 at 08:25:10
+        📅 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻: 02/10/2024 at 08:25:10
         📜 𝗟𝗶𝗰𝗲𝗻𝗰𝗲: GPL-3.0 License
         ⚠️ 𝗥𝗶𝗴𝗵𝘁𝘀 𝗡𝗼𝘁𝗶𝗰𝗲:
-        2024 All external and internal rights are reserved to @PikaBotz.
+        2024 All external and internal rights are reserved to @Igwe tech.
 */
 
 
